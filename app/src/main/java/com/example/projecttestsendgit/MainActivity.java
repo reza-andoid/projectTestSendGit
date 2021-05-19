@@ -15,4 +15,11 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "reza", Toast.LENGTH_SHORT).show();
 // sallam
     }
+    public void giveName();
+    public void giveName();
+    public void giveName();public void giveName();
+    public void giveName();
+    v
+        v
+        vpublic void giveName();public void giveName();public void giveName();public void giveName();public void giveName();public void giveName();
 }
